@@ -1,0 +1,11 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss build -i input.css -o static/styles.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "license": "UNLICENSED"
+}
