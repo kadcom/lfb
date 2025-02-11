@@ -19,7 +19,8 @@ To run this project, you will need to have the following installed:
 To get started, you will need to clone the repository to your local machine, and then run the following commands:
 
 ```bash
-$ yarn install 
+$ yarn install
+$ make
 $ go run main.go
 ```
 
